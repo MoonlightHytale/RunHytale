@@ -13,7 +13,7 @@ repositories {
 
 gradlePlugin {
     website.set("https://moonlightdevelopment.io")
-    vcsUrl.set("https://github.com/MoonlightHytale")
+    vcsUrl.set("https://github.com/MoonlightHytale/runhytale")
     plugins {
         create("runHytale") {
             id = "io.moonlightdevelopment.runhytale"
